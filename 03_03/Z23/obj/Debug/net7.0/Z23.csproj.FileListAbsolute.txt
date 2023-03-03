@@ -1,0 +1,15 @@
+C:\Users\108\OneDrive\Рабочий стол\WorkingDir\03_03\Z23\obj\Debug\net7.0\Z23.csproj.AssemblyReference.cache
+C:\Users\108\OneDrive\Рабочий стол\WorkingDir\03_03\Z23\obj\Debug\net7.0\Z23.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\108\OneDrive\Рабочий стол\WorkingDir\03_03\Z23\obj\Debug\net7.0\Z23.AssemblyInfoInputs.cache
+C:\Users\108\OneDrive\Рабочий стол\WorkingDir\03_03\Z23\obj\Debug\net7.0\Z23.AssemblyInfo.cs
+C:\Users\108\OneDrive\Рабочий стол\WorkingDir\03_03\Z23\obj\Debug\net7.0\Z23.csproj.CoreCompileInputs.cache
+C:\Users\108\OneDrive\Рабочий стол\WorkingDir\03_03\Z23\bin\Debug\net7.0\Z23.exe
+C:\Users\108\OneDrive\Рабочий стол\WorkingDir\03_03\Z23\bin\Debug\net7.0\Z23.deps.json
+C:\Users\108\OneDrive\Рабочий стол\WorkingDir\03_03\Z23\bin\Debug\net7.0\Z23.runtimeconfig.json
+C:\Users\108\OneDrive\Рабочий стол\WorkingDir\03_03\Z23\bin\Debug\net7.0\Z23.dll
+C:\Users\108\OneDrive\Рабочий стол\WorkingDir\03_03\Z23\bin\Debug\net7.0\Z23.pdb
+C:\Users\108\OneDrive\Рабочий стол\WorkingDir\03_03\Z23\obj\Debug\net7.0\Z23.dll
+C:\Users\108\OneDrive\Рабочий стол\WorkingDir\03_03\Z23\obj\Debug\net7.0\refint\Z23.dll
+C:\Users\108\OneDrive\Рабочий стол\WorkingDir\03_03\Z23\obj\Debug\net7.0\Z23.pdb
+C:\Users\108\OneDrive\Рабочий стол\WorkingDir\03_03\Z23\obj\Debug\net7.0\Z23.genruntimeconfig.cache
+C:\Users\108\OneDrive\Рабочий стол\WorkingDir\03_03\Z23\obj\Debug\net7.0\ref\Z23.dll
