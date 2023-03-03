@@ -12,4 +12,5 @@ Console.WriteLine("Palindrom");
 else
 {
     Console.WriteLine("Ne Palindrom");
+    
 }
