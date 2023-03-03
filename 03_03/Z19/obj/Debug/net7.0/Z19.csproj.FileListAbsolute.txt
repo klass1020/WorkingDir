@@ -1,0 +1,15 @@
+C:\Users\108\OneDrive\Рабочий стол\WorkingDir\03_03\Z19\bin\Debug\net7.0\Z19.exe
+C:\Users\108\OneDrive\Рабочий стол\WorkingDir\03_03\Z19\bin\Debug\net7.0\Z19.deps.json
+C:\Users\108\OneDrive\Рабочий стол\WorkingDir\03_03\Z19\bin\Debug\net7.0\Z19.runtimeconfig.json
+C:\Users\108\OneDrive\Рабочий стол\WorkingDir\03_03\Z19\bin\Debug\net7.0\Z19.dll
+C:\Users\108\OneDrive\Рабочий стол\WorkingDir\03_03\Z19\bin\Debug\net7.0\Z19.pdb
+C:\Users\108\OneDrive\Рабочий стол\WorkingDir\03_03\Z19\obj\Debug\net7.0\Z19.csproj.AssemblyReference.cache
+C:\Users\108\OneDrive\Рабочий стол\WorkingDir\03_03\Z19\obj\Debug\net7.0\Z19.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\108\OneDrive\Рабочий стол\WorkingDir\03_03\Z19\obj\Debug\net7.0\Z19.AssemblyInfoInputs.cache
+C:\Users\108\OneDrive\Рабочий стол\WorkingDir\03_03\Z19\obj\Debug\net7.0\Z19.AssemblyInfo.cs
+C:\Users\108\OneDrive\Рабочий стол\WorkingDir\03_03\Z19\obj\Debug\net7.0\Z19.csproj.CoreCompileInputs.cache
+C:\Users\108\OneDrive\Рабочий стол\WorkingDir\03_03\Z19\obj\Debug\net7.0\Z19.dll
+C:\Users\108\OneDrive\Рабочий стол\WorkingDir\03_03\Z19\obj\Debug\net7.0\refint\Z19.dll
+C:\Users\108\OneDrive\Рабочий стол\WorkingDir\03_03\Z19\obj\Debug\net7.0\Z19.pdb
+C:\Users\108\OneDrive\Рабочий стол\WorkingDir\03_03\Z19\obj\Debug\net7.0\Z19.genruntimeconfig.cache
+C:\Users\108\OneDrive\Рабочий стол\WorkingDir\03_03\Z19\obj\Debug\net7.0\ref\Z19.dll
