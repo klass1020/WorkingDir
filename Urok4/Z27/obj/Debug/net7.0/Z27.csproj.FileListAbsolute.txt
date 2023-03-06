@@ -1,0 +1,15 @@
+C:\Users\108\OneDrive\Рабочий стол\WorkingDir\Urok4\Z27\obj\Debug\net7.0\Z27.csproj.AssemblyReference.cache
+C:\Users\108\OneDrive\Рабочий стол\WorkingDir\Urok4\Z27\obj\Debug\net7.0\Z27.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\108\OneDrive\Рабочий стол\WorkingDir\Urok4\Z27\obj\Debug\net7.0\Z27.AssemblyInfoInputs.cache
+C:\Users\108\OneDrive\Рабочий стол\WorkingDir\Urok4\Z27\obj\Debug\net7.0\Z27.AssemblyInfo.cs
+C:\Users\108\OneDrive\Рабочий стол\WorkingDir\Urok4\Z27\obj\Debug\net7.0\Z27.csproj.CoreCompileInputs.cache
+C:\Users\108\OneDrive\Рабочий стол\WorkingDir\Urok4\Z27\bin\Debug\net7.0\Z27.exe
+C:\Users\108\OneDrive\Рабочий стол\WorkingDir\Urok4\Z27\bin\Debug\net7.0\Z27.deps.json
+C:\Users\108\OneDrive\Рабочий стол\WorkingDir\Urok4\Z27\bin\Debug\net7.0\Z27.runtimeconfig.json
+C:\Users\108\OneDrive\Рабочий стол\WorkingDir\Urok4\Z27\bin\Debug\net7.0\Z27.dll
+C:\Users\108\OneDrive\Рабочий стол\WorkingDir\Urok4\Z27\bin\Debug\net7.0\Z27.pdb
+C:\Users\108\OneDrive\Рабочий стол\WorkingDir\Urok4\Z27\obj\Debug\net7.0\Z27.dll
+C:\Users\108\OneDrive\Рабочий стол\WorkingDir\Urok4\Z27\obj\Debug\net7.0\refint\Z27.dll
+C:\Users\108\OneDrive\Рабочий стол\WorkingDir\Urok4\Z27\obj\Debug\net7.0\Z27.pdb
+C:\Users\108\OneDrive\Рабочий стол\WorkingDir\Urok4\Z27\obj\Debug\net7.0\Z27.genruntimeconfig.cache
+C:\Users\108\OneDrive\Рабочий стол\WorkingDir\Urok4\Z27\obj\Debug\net7.0\ref\Z27.dll
