@@ -1,0 +1,15 @@
+C:\Users\108\OneDrive\Рабочий стол\WorkingDir\Urok5\Z34\obj\Debug\net7.0\Z34.csproj.AssemblyReference.cache
+C:\Users\108\OneDrive\Рабочий стол\WorkingDir\Urok5\Z34\obj\Debug\net7.0\Z34.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\108\OneDrive\Рабочий стол\WorkingDir\Urok5\Z34\obj\Debug\net7.0\Z34.AssemblyInfoInputs.cache
+C:\Users\108\OneDrive\Рабочий стол\WorkingDir\Urok5\Z34\obj\Debug\net7.0\Z34.AssemblyInfo.cs
+C:\Users\108\OneDrive\Рабочий стол\WorkingDir\Urok5\Z34\obj\Debug\net7.0\Z34.csproj.CoreCompileInputs.cache
+C:\Users\108\OneDrive\Рабочий стол\WorkingDir\Urok5\Z34\bin\Debug\net7.0\Z34.exe
+C:\Users\108\OneDrive\Рабочий стол\WorkingDir\Urok5\Z34\bin\Debug\net7.0\Z34.deps.json
+C:\Users\108\OneDrive\Рабочий стол\WorkingDir\Urok5\Z34\bin\Debug\net7.0\Z34.runtimeconfig.json
+C:\Users\108\OneDrive\Рабочий стол\WorkingDir\Urok5\Z34\bin\Debug\net7.0\Z34.dll
+C:\Users\108\OneDrive\Рабочий стол\WorkingDir\Urok5\Z34\bin\Debug\net7.0\Z34.pdb
+C:\Users\108\OneDrive\Рабочий стол\WorkingDir\Urok5\Z34\obj\Debug\net7.0\Z34.dll
+C:\Users\108\OneDrive\Рабочий стол\WorkingDir\Urok5\Z34\obj\Debug\net7.0\refint\Z34.dll
+C:\Users\108\OneDrive\Рабочий стол\WorkingDir\Urok5\Z34\obj\Debug\net7.0\Z34.pdb
+C:\Users\108\OneDrive\Рабочий стол\WorkingDir\Urok5\Z34\obj\Debug\net7.0\Z34.genruntimeconfig.cache
+C:\Users\108\OneDrive\Рабочий стол\WorkingDir\Urok5\Z34\obj\Debug\net7.0\ref\Z34.dll
