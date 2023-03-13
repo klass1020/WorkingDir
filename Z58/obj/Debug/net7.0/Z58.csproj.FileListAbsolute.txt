@@ -1,0 +1,15 @@
+C:\Users\108\OneDrive\Рабочий стол\WorkingDir\Z58\bin\Debug\net7.0\Z58.exe
+C:\Users\108\OneDrive\Рабочий стол\WorkingDir\Z58\bin\Debug\net7.0\Z58.deps.json
+C:\Users\108\OneDrive\Рабочий стол\WorkingDir\Z58\bin\Debug\net7.0\Z58.runtimeconfig.json
+C:\Users\108\OneDrive\Рабочий стол\WorkingDir\Z58\bin\Debug\net7.0\Z58.dll
+C:\Users\108\OneDrive\Рабочий стол\WorkingDir\Z58\bin\Debug\net7.0\Z58.pdb
+C:\Users\108\OneDrive\Рабочий стол\WorkingDir\Z58\obj\Debug\net7.0\Z58.csproj.AssemblyReference.cache
+C:\Users\108\OneDrive\Рабочий стол\WorkingDir\Z58\obj\Debug\net7.0\Z58.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\108\OneDrive\Рабочий стол\WorkingDir\Z58\obj\Debug\net7.0\Z58.AssemblyInfoInputs.cache
+C:\Users\108\OneDrive\Рабочий стол\WorkingDir\Z58\obj\Debug\net7.0\Z58.AssemblyInfo.cs
+C:\Users\108\OneDrive\Рабочий стол\WorkingDir\Z58\obj\Debug\net7.0\Z58.csproj.CoreCompileInputs.cache
+C:\Users\108\OneDrive\Рабочий стол\WorkingDir\Z58\obj\Debug\net7.0\Z58.dll
+C:\Users\108\OneDrive\Рабочий стол\WorkingDir\Z58\obj\Debug\net7.0\refint\Z58.dll
+C:\Users\108\OneDrive\Рабочий стол\WorkingDir\Z58\obj\Debug\net7.0\Z58.pdb
+C:\Users\108\OneDrive\Рабочий стол\WorkingDir\Z58\obj\Debug\net7.0\Z58.genruntimeconfig.cache
+C:\Users\108\OneDrive\Рабочий стол\WorkingDir\Z58\obj\Debug\net7.0\ref\Z58.dll
