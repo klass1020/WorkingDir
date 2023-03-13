@@ -1,0 +1,5 @@
+C:\Users\108\OneDrive\Рабочий стол\WorkingDir\Trenirovka\Factorial\obj\Debug\net7.0\Factorial.csproj.AssemblyReference.cache
+C:\Users\108\OneDrive\Рабочий стол\WorkingDir\Trenirovka\Factorial\obj\Debug\net7.0\Factorial.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\108\OneDrive\Рабочий стол\WorkingDir\Trenirovka\Factorial\obj\Debug\net7.0\Factorial.AssemblyInfoInputs.cache
+C:\Users\108\OneDrive\Рабочий стол\WorkingDir\Trenirovka\Factorial\obj\Debug\net7.0\Factorial.AssemblyInfo.cs
+C:\Users\108\OneDrive\Рабочий стол\WorkingDir\Trenirovka\Factorial\obj\Debug\net7.0\Factorial.csproj.CoreCompileInputs.cache

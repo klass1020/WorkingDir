@@ -1,0 +1,15 @@
+C:\Users\108\OneDrive\Рабочий стол\WorkingDir\Z54, 56, 58, 60\Z56\obj\Debug\net7.0\Z56.csproj.AssemblyReference.cache
+C:\Users\108\OneDrive\Рабочий стол\WorkingDir\Z54, 56, 58, 60\Z56\obj\Debug\net7.0\Z56.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\108\OneDrive\Рабочий стол\WorkingDir\Z54, 56, 58, 60\Z56\obj\Debug\net7.0\Z56.AssemblyInfoInputs.cache
+C:\Users\108\OneDrive\Рабочий стол\WorkingDir\Z54, 56, 58, 60\Z56\obj\Debug\net7.0\Z56.AssemblyInfo.cs
+C:\Users\108\OneDrive\Рабочий стол\WorkingDir\Z54, 56, 58, 60\Z56\obj\Debug\net7.0\Z56.csproj.CoreCompileInputs.cache
+C:\Users\108\OneDrive\Рабочий стол\WorkingDir\Z54, 56, 58, 60\Z56\bin\Debug\net7.0\Z56.exe
+C:\Users\108\OneDrive\Рабочий стол\WorkingDir\Z54, 56, 58, 60\Z56\bin\Debug\net7.0\Z56.deps.json
+C:\Users\108\OneDrive\Рабочий стол\WorkingDir\Z54, 56, 58, 60\Z56\bin\Debug\net7.0\Z56.runtimeconfig.json
+C:\Users\108\OneDrive\Рабочий стол\WorkingDir\Z54, 56, 58, 60\Z56\bin\Debug\net7.0\Z56.dll
+C:\Users\108\OneDrive\Рабочий стол\WorkingDir\Z54, 56, 58, 60\Z56\bin\Debug\net7.0\Z56.pdb
+C:\Users\108\OneDrive\Рабочий стол\WorkingDir\Z54, 56, 58, 60\Z56\obj\Debug\net7.0\Z56.dll
+C:\Users\108\OneDrive\Рабочий стол\WorkingDir\Z54, 56, 58, 60\Z56\obj\Debug\net7.0\refint\Z56.dll
+C:\Users\108\OneDrive\Рабочий стол\WorkingDir\Z54, 56, 58, 60\Z56\obj\Debug\net7.0\Z56.pdb
+C:\Users\108\OneDrive\Рабочий стол\WorkingDir\Z54, 56, 58, 60\Z56\obj\Debug\net7.0\Z56.genruntimeconfig.cache
+C:\Users\108\OneDrive\Рабочий стол\WorkingDir\Z54, 56, 58, 60\Z56\obj\Debug\net7.0\ref\Z56.dll
